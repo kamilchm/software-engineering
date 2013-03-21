@@ -1,6 +1,8 @@
 Software Engineering
 ====================
 
+Polish slides - http://kamilchm.github.com/software-engineering/presentation_pl.html
+
 Unit testing
 ------------
 * xUnit - http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks
