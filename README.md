@@ -15,6 +15,10 @@ Infrastructure as a Service
 ---------------------------
 * http://en.wikipedia.org/wiki/Cloud_computing
 
+Platform as a Service
+---------------------
+* http://blog.huchunhao.com/current-and-upcoming-cloud-platforms
+
 Configuration Management
 ------------------------
 * http://en.wikipedia.org/wiki/Comparison_of_open_source_configuration_management_software
