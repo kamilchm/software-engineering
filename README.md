@@ -40,8 +40,8 @@ Performance Testing
 * https://developers.google.com/speed/pagespeed/
 * http://developer.yahoo.com/yslow/
 
-Monitoring
-----------
+Metrics
+-------
 * http://www.zabbix.com/
 * http://www.nagios.org/
 * http://www.cacti.net/
